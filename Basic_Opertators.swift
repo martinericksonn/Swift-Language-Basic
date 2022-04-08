@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 //Assignment Operator : Unlike the assignment operator in C and Objective-C, the assignment operator in Swift does not itself return a value. The following statement is not valid:
 var (x, y) = (1, 2)

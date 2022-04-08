@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 //If you need a string that spans several lines, use a multiline string literal—a sequence of characters surrounded by three double quotation marks:
 let quotation = """

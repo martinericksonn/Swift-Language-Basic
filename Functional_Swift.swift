@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 // Map : Use map to loop over a collection and apply the same operation as closure to each element in the collection. The map function returns an array containing the results of applying a mapping or transform function to each item. The return type of a map function is always a generic array. You can return an array of any type.
 let arrayOfInt = [2,3,4,5,4,7,2]
