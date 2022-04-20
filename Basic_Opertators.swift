@@ -2,6 +2,7 @@ import Foundation
 
 //Assignment Operator : Unlike the assignment operator in C and Objective-C, the assignment operator in Swift does not itself return a value. The following statement is not valid:
 var (x, y) = (1, 2)
+
 //if x = y {// This is not valid, because x = y does not return a value.}
 //This feature prevents the assignment operator (=) from being used by accident when the equal to operator (==) is actually intended.
 
